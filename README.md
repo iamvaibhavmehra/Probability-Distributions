@@ -4,4 +4,4 @@ This repository contains all of the notes and practice questions for the 3-part 
 
 # Practice Questions:
 
-I have prepared practice questions as well to help you solidify this concept.
+I have prepared practice questions as well to help you solidify this concept. These can be found here:
